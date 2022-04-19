@@ -1,0 +1,30 @@
+.app-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding-right: 20%;
+} 
+
+.footer-div{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+
+.footer-text{
+    display: flex;
+}
+
+.footer-div .footer-text-title{
+    text-transform: uppercase;
+    font-size: 0.625rem;
+    line-height: 0.8125rem;
+}
+
+
+.footer-div .footer-text-content{
+    text-transform: uppercase;
+    font-size: 0.625rem;
+    line-height: 0.8125rem;
+    font-weight: 500;
+}

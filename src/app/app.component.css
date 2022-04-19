@@ -1,0 +1,12 @@
+.app {
+    width: 100%;
+    min-height: -webkit-fill-available;
+    display: flex;
+}
+
+.div-app-right {
+    display: flex;
+    flex: 1 auto;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}

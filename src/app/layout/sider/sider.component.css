@@ -1,0 +1,35 @@
+.app-sider {
+    width: 200px;
+    height: 100%;
+    padding: 0 1.6875rem;
+}
+
+.img-logo {
+    z-index: 6;
+    width: auto;
+    min-height: 3.4375rem;
+    top: var(--flashBannerH, 0);
+    margin-top: 1rem;
+
+    display: flex;
+    align-items: center;
+}
+
+.img-logo img {
+    width: 125px;
+}
+
+.app-menu {
+    padding-left: 10px;
+}
+
+.app-menu .menu-group {
+    margin: 10px 0;
+}
+
+.app-menu p {
+    margin: 0;
+    font-size: 0.625rem;
+    line-height: 0.8125rem;
+    text-transform: uppercase;
+}
